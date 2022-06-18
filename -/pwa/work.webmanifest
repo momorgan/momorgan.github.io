@@ -1,50 +1,50 @@
 {
-    "name": "app name",
-    "short_name": "short name",
+    "name": "Portfolio by Mo Morgan",
+    "short_name": "Portfolio",
     "theme_color": "#090f29",
-    "background_color": "#bde1c5",
+    "background_color": "#090f29",
     "display": "standalone",
     "orientation": "any",
     "scope": "/",
     "start_url": "/",
     "icons": [
       {
-        "src": "https://momorgan.net/-/img/icon/bigm-090f29-72x72.png",
+        "src": "https://momorgan.net/-/img/icon/bigm-bde1c5-72x72.png",
         "sizes": "72x72",
         "type": "image/png"
       },
       {
-        "src": "https://momorgan.net/-/img/icon/bigm-090f29-96x96.png",
+        "src": "https://momorgan.net/-/img/icon/bigm-bde1c5-96x96.png",
         "sizes": "96x96",
         "type": "image/png"
       },
       {
-        "src": "https://momorgan.net/-/img/icon/bigm-090f29-128x128.png",
+        "src": "https://momorgan.net/-/img/icon/bigm-bde1c5-128x128.png",
         "sizes": "128x128",
         "type": "image/png"
       },
       {
-        "src": "https://momorgan.net/-/img/icon/bigm-090f29-144x144.png",
+        "src": "https://momorgan.net/-/img/icon/bigm-bde1c5-144x144.png",
         "sizes": "144x144",
         "type": "image/png"
       },
       {
-        "src": "https://momorgan.net/-/img/icon/bigm-090f29-152x152.png",
+        "src": "https://momorgan.net/-/img/icon/bigm-bde1c5-152x152.png",
         "sizes": "152x152",
         "type": "image/png"
       },
       {
-        "src": "https://momorgan.net/-/img/icon/bigm-090f29-192x192.png",
+        "src": "https://momorgan.net/-/img/icon/bigm-bde1c5-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "https://momorgan.net/-/img/icon/bigm-090f29-384x384.png",
+        "src": "https://momorgan.net/-/img/icon/bigm-bde1c5-384x384.png",
         "sizes": "384x384",
         "type": "image/png"
       },
       {
-        "src": "https://momorgan.net/-/img/icon/bigm-090f29-512x512.png",
+        "src": "https://momorgan.net/-/img/icon/bigm-bde1c5-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
